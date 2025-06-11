@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca938c"
+  },
+  "assignmentId": "419a9bd9-341f-4c59-8285-5b96d53d3294",
+  "courseId": "91ebb780-dce3-4a03-9a0e-803f34e2a3a4",
+  "title": "Assignment 1",
+  "description": "Introduction to Data Structures",
+  "dueDate": "2025-07-10T13:45:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca938d"
+  },
+  "assignmentId": "fbe05bde-0319-4eb9-8c47-8418a431e891",
+  "courseId": "35e91b79-d506-456f-96d1-2e31076373d6",
+  "title": "Assignment 2",
+  "description": "Database Normalization",
+  "dueDate": "2025-07-11T14:00:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca938e"
+  },
+  "assignmentId": "7b879705-0b3a-4bdb-a24a-cf2dca897bac",
+  "courseId": "a448d8ec-5efe-47d2-b334-78f4563959fa",
+  "title": "Assignment 3",
+  "description": "Advanced Algorithm Analysis",
+  "dueDate": "2025-07-12T15:30:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca938f"
+  },
+  "assignmentId": "bd21d007-49ce-404e-a1a3-0e676871a80e",
+  "courseId": "7f94f4c2-00ed-46eb-84cf-ffb122049ec3",
+  "title": "Assignment 4",
+  "description": "Artificial Intelligence Fundamentals",
+  "dueDate": "2025-07-13T10:00:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca9390"
+  },
+  "assignmentId": "76b62dc4-092e-49e5-a7b8-4a29657afdfe",
+  "courseId": "08d0fc43-ee2f-4232-8b99-2bf3acd279b5",
+  "title": "Assignment 5",
+  "description": "Cybersecurity Principles",
+  "dueDate": "2025-07-14T11:00:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca9391"
+  },
+  "assignmentId": "3be66808-3904-4032-aa7a-5076425a21b6",
+  "courseId": "5385b642-1be0-472f-bc68-b3557303c8c4",
+  "title": "Assignment 6",
+  "description": "Web Development Basics",
+  "dueDate": "2025-07-15T16:00:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca9392"
+  },
+  "assignmentId": "15e83cad-6edd-4eaf-a6b7-55ed41464f3f",
+  "courseId": "3197aab2-ce32-4070-9785-359bd87dfcfd",
+  "title": "Assignment 7",
+  "description": "Machine Learning Applications",
+  "dueDate": "2025-07-16T12:30:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca9393"
+  },
+  "assignmentId": "d3fa1e35-97b9-4c43-8aeb-630a6c70d57a",
+  "courseId": "043265e5-03ee-4241-b7e9-fdfaf30280aa",
+  "title": "Assignment 8",
+  "description": "Cloud Computing Concepts",
+  "dueDate": "2025-06-17T17:30:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca9394"
+  },
+  "assignmentId": "1e65a602-6f78-4763-a3a0-5b897628ea9a",
+  "courseId": "d4d1aee9-8c8d-43a1-ac20-b11cfb1f797d",
+  "title": "Assignment 9",
+  "description": "Mobile App Development",
+  "dueDate": "2025-07-18T09:30:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68482c7970de6a3fa6ca9395"
+  },
+  "assignmentId": "b65ebdbb-1471-4b04-bfca-04d3c95afe80",
+  "courseId": "77221df4-367a-481f-b053-ec65fcf47154",
+  "title": "Assignment 10",
+  "description": "Software Engineering Practices",
+  "dueDate": "2025-07-19T14:45:00",
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T14:00:41.140Z"
+  }
+}]

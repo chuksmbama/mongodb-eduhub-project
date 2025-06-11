@@ -1,0 +1,227 @@
+[{
+  "_id": {
+    "$oid": "6848172070de6a3fa6ca9315"
+  },
+  "courseId": "C001",
+  "title": "Python for Data Science",
+  "description": "Learn Python for data analysis, visualization, and machine learning.",
+  "instructorId": "U001",
+  "category": "Programming",
+  "level": "beginner",
+  "duration": 8,
+  "price": 99.99,
+  "tags": [
+    "Python",
+    "Data Science",
+    "Machine Learning"
+  ],
+  "createdAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "6848172070de6a3fa6ca9316"
+  },
+  "courseId": "C002",
+  "title": "Web Development with JavaScript",
+  "description": "Master JavaScript, HTML, CSS, and Node.js to build full-stack applications.",
+  "instructorId": "U002",
+  "category": "Web Development",
+  "level": "intermediate",
+  "duration": 12,
+  "price": 149.99,
+  "tags": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Node.js"
+  ],
+  "createdAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "6848172070de6a3fa6ca9317"
+  },
+  "courseId": "C003",
+  "title": "Machine Learning with TensorFlow",
+  "description": "Explore deep learning techniques and build AI models with TensorFlow.",
+  "instructorId": "U003",
+  "category": "Artificial Intelligence",
+  "level": "advanced",
+  "duration": 10,
+  "price": 199.99,
+  "tags": [
+    "Machine Learning",
+    "TensorFlow",
+    "Deep Learning"
+  ],
+  "createdAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "6848172070de6a3fa6ca9318"
+  },
+  "courseId": "C004",
+  "title": "Cybersecurity and Ethical Hacking",
+  "description": "Understand cybersecurity principles and ethical hacking techniques.",
+  "instructorId": "U004",
+  "category": "Cybersecurity",
+  "level": "advanced",
+  "duration": 14,
+  "price": 249.99,
+  "tags": [
+    "Cybersecurity",
+    "Ethical Hacking",
+    "Network Security"
+  ],
+  "createdAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "6848172070de6a3fa6ca9319"
+  },
+  "courseId": "C005",
+  "title": "Cloud Computing with AWS",
+  "description": "Learn cloud services, deployment strategies, and AWS security.",
+  "instructorId": "U005",
+  "category": "Cloud Computing",
+  "level": "intermediate",
+  "duration": 16,
+  "price": 179.99,
+  "tags": [
+    "AWS",
+    "Cloud Computing",
+    "Docker"
+  ],
+  "createdAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "6848172070de6a3fa6ca931a"
+  },
+  "courseId": "C006",
+  "title": "UI/UX Design Fundamentals",
+  "description": "Gain expertise in user interface and experience design techniques.",
+  "instructorId": "U006",
+  "category": "Design",
+  "level": "beginner",
+  "duration": 6,
+  "price": 89.99,
+  "tags": [
+    "UI/UX",
+    "Design",
+    "CSS"
+  ],
+  "createdAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "6848172070de6a3fa6ca931b"
+  },
+  "courseId": "C007",
+  "title": "Mobile App Development with Flutter",
+  "description": "Develop high-quality mobile applications with Flutter and Dart.",
+  "instructorId": "U007",
+  "category": "Mobile Development",
+  "level": "intermediate",
+  "duration": 12,
+  "price": 159.99,
+  "tags": [
+    "Flutter",
+    "Dart",
+    "Mobile Development"
+  ],
+  "createdAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "6848172070de6a3fa6ca931c"
+  },
+  "courseId": "C008",
+  "title": "Blockchain & Cryptocurrency Essentials",
+  "description": "Understand blockchain technology, smart contracts, and cryptocurrencies.",
+  "instructorId": "U008",
+  "category": "Blockchain",
+  "level": "advanced",
+  "duration": 10,
+  "price": 199.99,
+  "tags": [
+    "Blockchain",
+    "Cryptocurrency",
+    "Solidity"
+  ],
+  "createdAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T12:29:36.204Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "6849717970de6a3fa6ca93a4"
+  },
+  "courseId": "C071",
+  "title": "Data Engineering with Mongodb",
+  "description": "Learn how to design NoSql databases and build piplines using Mongodb",
+  "instructorId": "U071",
+  "category": "Data Engineering",
+  "level": "beginner",
+  "duration": 15.5,
+  "price": 79.99,
+  "tags": [
+    "Mongodb",
+    "data engineering",
+    "nosql",
+    "etl"
+  ],
+  "createdAt": {
+    "$date": "2025-06-11T13:07:21.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-11T13:07:21.191Z"
+  },
+  "isPublished": true
+}]

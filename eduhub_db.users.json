@@ -1,0 +1,465 @@
+[{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca92f9"
+  },
+  "userId": "U001",
+  "email": "micheal_jordan@gmail.com",
+  "firstName": "Micheal",
+  "lastName": "Jordan",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Aspiring data scientist.",
+    "avatar": "avatar1.png",
+    "skills": [
+      "Python",
+      "Statistics"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca92fa"
+  },
+  "userId": "U002",
+  "email": "john_doe@gmail.com",
+  "firstName": "John",
+  "lastName": "Doe",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Experienced software developer.",
+    "avatar": "avatar2.png",
+    "skills": [
+      "JavaScript",
+      "MongoDB"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca92fb"
+  },
+  "userId": "U003",
+  "email": "emma_jones@gmail.com",
+  "firstName": "Emma",
+  "lastName": "Jones",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Machine learning enthusiast.",
+    "avatar": "avatar3.png",
+    "skills": [
+      "TensorFlow",
+      "Data Science"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca92fc"
+  },
+  "userId": "U004",
+  "email": "michael_brown@gmail.com",
+  "firstName": "Michael",
+  "lastName": "Brown",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Cybersecurity specialist.",
+    "avatar": "avatar4.png",
+    "skills": [
+      "Ethical Hacking",
+      "Network Security"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca92fd"
+  },
+  "userId": "U005",
+  "email": "sophia_wilson@gmail.com",
+  "firstName": "Sophia",
+  "lastName": "Wilson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Passionate about web design.",
+    "avatar": "avatar5.png",
+    "skills": [
+      "HTML",
+      "CSS",
+      "UI/UX"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca92fe"
+  },
+  "userId": "U006",
+  "email": "james_taylor@gmail.com",
+  "firstName": "James",
+  "lastName": "Taylor",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Cloud computing expert.",
+    "avatar": "avatar6.png",
+    "skills": [
+      "AWS",
+      "Docker"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca92ff"
+  },
+  "userId": "U007",
+  "email": "olivia_martin@gmail.com",
+  "firstName": "Olivia",
+  "lastName": "Martin",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "AI and NLP enthusiast.",
+    "avatar": "avatar7.png",
+    "skills": [
+      "NLP",
+      "Deep Learning"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9300"
+  },
+  "userId": "U008",
+  "email": "william_thomas@gmail.com",
+  "firstName": "William",
+  "lastName": "Thomas",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Specialist in mobile development.",
+    "avatar": "avatar8.png",
+    "skills": [
+      "Flutter",
+      "Swift"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9301"
+  },
+  "userId": "U009",
+  "email": "ava_white@gmail.com",
+  "firstName": "Ava",
+  "lastName": "White",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Interested in game development.",
+    "avatar": "avatar9.png",
+    "skills": [
+      "Unity",
+      "C#"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9302"
+  },
+  "userId": "U010",
+  "email": "logan_harris@gmail.com",
+  "firstName": "Logan",
+  "lastName": "Harris",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Blockchain technology educator.",
+    "avatar": "avatar10.png",
+    "skills": [
+      "Solidity",
+      "Cryptography"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9303"
+  },
+  "userId": "U011",
+  "email": "micheal_jordan@gmail.com",
+  "firstName": "Micheal",
+  "lastName": "Jordan",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Aspiring data scientist.",
+    "avatar": "avatar1.png",
+    "skills": [
+      "Python",
+      "Statistics"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9304"
+  },
+  "userId": "U012",
+  "email": "john_doe@gmail.com",
+  "firstName": "John",
+  "lastName": "Doe",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Experienced software developer.",
+    "avatar": "avatar2.png",
+    "skills": [
+      "JavaScript",
+      "MongoDB"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9305"
+  },
+  "userId": "U013",
+  "email": "emma_jones@gmail.com",
+  "firstName": "Emma",
+  "lastName": "Jones",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Machine learning enthusiast.",
+    "avatar": "avatar3.png",
+    "skills": [
+      "TensorFlow",
+      "Data Science"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9306"
+  },
+  "userId": "U014",
+  "email": "michael_brown@gmail.com",
+  "firstName": "Michael",
+  "lastName": "Brown",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Cybersecurity specialist.",
+    "avatar": "avatar4.png",
+    "skills": [
+      "Ethical Hacking",
+      "Network Security"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9307"
+  },
+  "userId": "U015",
+  "email": "sophia_wilson@gmail.com",
+  "firstName": "Sophia",
+  "lastName": "Wilson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Passionate about web design.",
+    "avatar": "avatar5.png",
+    "skills": [
+      "HTML",
+      "CSS",
+      "UI/UX"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9308"
+  },
+  "userId": "U016",
+  "email": "james_taylor@gmail.com",
+  "firstName": "James",
+  "lastName": "Taylor",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Cloud computing expert.",
+    "avatar": "avatar6.png",
+    "skills": [
+      "AWS",
+      "Docker"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca9309"
+  },
+  "userId": "U017",
+  "email": "olivia_martin@gmail.com",
+  "firstName": "Olivia",
+  "lastName": "Martin",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "AI and NLP enthusiast.",
+    "avatar": "avatar7.png",
+    "skills": [
+      "NLP",
+      "Deep Learning"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca930a"
+  },
+  "userId": "U018",
+  "email": "william_thomas@gmail.com",
+  "firstName": "William",
+  "lastName": "Thomas",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Specialist in mobile development.",
+    "avatar": "avatar8.png",
+    "skills": [
+      "Flutter",
+      "Swift"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca930b"
+  },
+  "userId": "U019",
+  "email": "ava_white@gmail.com",
+  "firstName": "Ava",
+  "lastName": "White",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Interested in game development.",
+    "avatar": "avatar9.png",
+    "skills": [
+      "Unity",
+      "C#"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "6848092270de6a3fa6ca930c"
+  },
+  "userId": "U020",
+  "email": "logan_harris@gmail.com",
+  "firstName": "Logan",
+  "lastName": "Harris",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-10T11:29:54.320Z"
+  },
+  "profile": {
+    "bio": "Blockchain technology educator.",
+    "avatar": "avatar10.png",
+    "skills": [
+      "Solidity",
+      "Cryptography"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "68496e8f70de6a3fa6ca93a3"
+  },
+  "userId": "u001",
+  "email": "mbamahenrry@gmail.com",
+  "firstName": "Mbama",
+  "lastName": "Herry",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-11T11:54:55.016Z"
+  },
+  "isActive": true,
+  "profile": {
+    "bio": "Passionate learner of Python and MongoDB.",
+    "avatar": "https://example.com/avatar.jpg",
+    "skills": [
+      "Python",
+      "MongoDB",
+      "Data Analysis"
+    ]
+  }
+}]

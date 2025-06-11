@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca9359"
+  },
+  "enrollmentId": "7a2620af-b56b-4eae-8120-706f6e8b0ac3",
+  "studentId": "U001",
+  "courseId": "C001",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 100,
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca935a"
+  },
+  "enrollmentId": "f017b1ff-4a1a-4bbd-acca-acd72939a820",
+  "studentId": "U002",
+  "courseId": "C002",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 50,
+  "status": "ongoing"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca935b"
+  },
+  "enrollmentId": "2d476e0a-5a7d-4f26-8600-6e8963d42f54",
+  "studentId": "U003",
+  "courseId": "C003",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 20,
+  "status": "ongoing"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca935c"
+  },
+  "enrollmentId": "d96fa54b-b0b6-405c-be30-4090c7551bf7",
+  "studentId": "U004",
+  "courseId": "C004",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 80,
+  "status": "dropped"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca935d"
+  },
+  "enrollmentId": "08583107-1b3d-4652-ad86-75bb80236b1d",
+  "studentId": "U005",
+  "courseId": "C005",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 10,
+  "status": "dropped"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca935e"
+  },
+  "enrollmentId": "ddef556c-fc5b-42ab-8705-702874ce9cbc",
+  "studentId": "U006",
+  "courseId": "C006",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 65,
+  "status": "ongoing"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca935f"
+  },
+  "enrollmentId": "173f50f1-bbc1-4237-a6b1-abe6af517e3b",
+  "studentId": "U007",
+  "courseId": "C007",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 100,
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca9360"
+  },
+  "enrollmentId": "864f06e2-0ee8-4038-bcab-0e0798ac19fe",
+  "studentId": "U008",
+  "courseId": "C008",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 90,
+  "status": "ongoing"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca9361"
+  },
+  "enrollmentId": "3b2a8451-e0cf-4d34-b0ce-e5b19777690c",
+  "studentId": "U009",
+  "courseId": "C001",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 70,
+  "status": "dropped"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca9362"
+  },
+  "enrollmentId": "09b38569-577e-428e-89f5-42294f927f6d",
+  "studentId": "U010",
+  "courseId": "C002",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 90,
+  "status": "ongoing"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca9363"
+  },
+  "enrollmentId": "c26f9bce-1e7d-4cab-af5c-bafe0014b6c0",
+  "studentId": "U001",
+  "courseId": "C003",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 25,
+  "status": "dropped"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca9364"
+  },
+  "enrollmentId": "348e4e2e-7e73-4ead-ac4a-04beb3b142d3",
+  "studentId": "U002",
+  "courseId": "C004",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 100,
+  "status": "completed"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca9365"
+  },
+  "enrollmentId": "3ed18665-4d76-4b85-9ae6-6bbee1ff917a",
+  "studentId": "U003",
+  "courseId": "C005",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 55,
+  "status": "ongoing"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca9366"
+  },
+  "enrollmentId": "1ddb2c98-b9f2-43fe-bb3a-15fb55c70a8b",
+  "studentId": "U004",
+  "courseId": "C006",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 45,
+  "status": "ongoing"
+},
+{
+  "_id": {
+    "$oid": "6848205e70de6a3fa6ca9367"
+  },
+  "enrollmentId": "c7a71adc-c9db-4b75-84fe-f53ebcab35af",
+  "studentId": "U005",
+  "courseId": "C007",
+  "enrolledAt": {
+    "$date": "2025-06-10T13:09:02.616Z"
+  },
+  "progress": 100,
+  "status": "completed"
+}]

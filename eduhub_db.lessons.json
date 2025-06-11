@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9368"
+  },
+  "lessonId": "c641d081-6130-4727-b303-ea1ce04077d8",
+  "courseId": "8a6b0241-9379-49e4-a5b7-8702f4f33e76",
+  "title": "Introduction to Python",
+  "content": "An overview of Python programming language and its applications.",
+  "duration": 45,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.152Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9369"
+  },
+  "lessonId": "484c0f7a-b279-45fc-90f1-bf93fabc5838",
+  "courseId": "bbea00e1-2211-4e70-89d3-813108a307fc",
+  "title": "Variables and Data Types",
+  "content": "Understanding different data types and variables in Python.",
+  "duration": 60,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.152Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca936a"
+  },
+  "lessonId": "8b30d551-c8ef-48ed-9cc9-c0d38db84376",
+  "courseId": "7d24a2f6-8224-4844-a253-e737baa75aae",
+  "title": "HTML Basics",
+  "content": "Introduction to HTML structure and elements.",
+  "duration": 50,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca936b"
+  },
+  "lessonId": "2c9922a5-68e4-443e-85e8-7b0ea308f677",
+  "courseId": "764f311a-9052-41de-9528-b108f6b7308c",
+  "title": "CSS Styling",
+  "content": "Learning CSS properties and how to style web pages.",
+  "duration": 55,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca936c"
+  },
+  "lessonId": "512ef650-62a0-4984-8e1e-ca2c338b4ff7",
+  "courseId": "1f2d3989-1e71-4427-b174-35bbbad678ff",
+  "title": "Introduction to Machine Learning",
+  "content": "Overview of machine learning concepts and algorithms.",
+  "duration": 70,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca936d"
+  },
+  "lessonId": "4a98f92f-7d63-4396-a5ac-926a7dfb4d12",
+  "courseId": "28c74b68-083d-4a28-9523-b7d2be2bf5aa",
+  "title": "Data Preprocessing",
+  "content": "Techniques for handling missing data and feature engineering.",
+  "duration": 90,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca936e"
+  },
+  "lessonId": "0421cd14-6b77-4674-966d-b3512955dad0",
+  "courseId": "362c9434-dfa7-4bdd-99cb-624a19822f0b",
+  "title": "Cybersecurity Fundamentals",
+  "content": "Understanding cybersecurity principles and best practices.",
+  "duration": 65,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca936f"
+  },
+  "lessonId": "55f3855c-cfc6-4799-a4d8-d81570f7c01d",
+  "courseId": "ab864ce7-79de-4390-8c83-81a912bf07bb",
+  "title": "Ethical Hacking Techniques",
+  "content": "Learning penetration testing methodologies.",
+  "duration": 80,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9370"
+  },
+  "lessonId": "7ed94e94-1ba9-4e2d-986b-1fdc0d0d9297",
+  "courseId": "abb1d02f-66ae-4720-a49b-724588917fe0",
+  "title": "Cloud Computing Concepts",
+  "content": "Introduction to cloud computing and deployment strategies.",
+  "duration": 75,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9371"
+  },
+  "lessonId": "48500b10-1d2c-4874-8064-9f275d6c60a7",
+  "courseId": "dcc8af98-9c47-4734-8575-00e98c77827c",
+  "title": "AWS Cloud Services",
+  "content": "Overview of AWS services including EC2 and S3.",
+  "duration": 85,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9372"
+  },
+  "lessonId": "ef6dbd8e-42dc-41c9-a283-4098bd68ce80",
+  "courseId": "c113d5c8-aa8d-4d08-b4d3-c234981b847e",
+  "title": "UI/UX Design Principles",
+  "content": "Understanding user experience and interface design techniques.",
+  "duration": 70,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9373"
+  },
+  "lessonId": "d777f930-e3a0-48d4-af27-045b1cfb0232",
+  "courseId": "b121acde-0fc3-40d1-bf4c-9e20806d404a",
+  "title": "Wireframing and Prototyping",
+  "content": "Creating wireframes and interactive prototypes.",
+  "duration": 60,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9374"
+  },
+  "lessonId": "e5cfa0e5-8c88-4875-bc42-6879c72c52aa",
+  "courseId": "c2ef99d7-2512-47cc-959b-1d3c1df611d6",
+  "title": "Flutter Basics",
+  "content": "Introduction to Flutter and Dart programming language.",
+  "duration": 90,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9375"
+  },
+  "lessonId": "f0189f49-5d1d-4843-920e-c9978efa997a",
+  "courseId": "ba774257-488a-4f9c-9cce-541ada953670",
+  "title": "Building Responsive UI",
+  "content": "Techniques for creating responsive mobile applications.",
+  "duration": 85,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9376"
+  },
+  "lessonId": "b76c3cc7-0e77-4570-b3fc-fbbd044e89c6",
+  "courseId": "74a0a2c9-14dc-4959-bd55-55226180f1b8",
+  "title": "Introduction to Blockchain",
+  "content": "Understanding blockchain technology and its applications.",
+  "duration": 75,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9377"
+  },
+  "lessonId": "a53b7e09-d25f-4978-95bf-c50b9560c4a9",
+  "courseId": "abbb8083-efb6-4c9c-9767-c888b830be32",
+  "title": "Smart Contracts with Solidity",
+  "content": "Learn Solidity for smart contract development.",
+  "duration": 95,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9378"
+  },
+  "lessonId": "dd6e58cc-2990-475c-b76d-234a87a3736d",
+  "courseId": "183a37b7-3c25-4569-9b14-49492a8b68e5",
+  "title": "Introduction to Python",
+  "content": "An overview of Python programming language and its applications.",
+  "duration": 45,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9379"
+  },
+  "lessonId": "c6163e28-66b8-4e03-8ce0-0e82fdc6f678",
+  "courseId": "b833653b-54f4-4472-bcbd-204cfd4f1424",
+  "title": "Variables and Data Types",
+  "content": "Understanding different data types and variables in Python.",
+  "duration": 60,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca937a"
+  },
+  "lessonId": "ea7659c0-372f-4f9a-a814-b5df8857a08c",
+  "courseId": "28695633-fce3-4c5a-8b5a-a86ede28bf4a",
+  "title": "HTML Basics",
+  "content": "Introduction to HTML structure and elements.",
+  "duration": 50,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca937b"
+  },
+  "lessonId": "5d98a326-dcff-49a3-b782-ee760f72b777",
+  "courseId": "8020b7f7-013e-4b2e-90ba-950be4f79f76",
+  "title": "CSS Styling",
+  "content": "Learning CSS properties and how to style web pages.",
+  "duration": 55,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca937c"
+  },
+  "lessonId": "1638eda2-a81a-404e-926d-f325388e09f4",
+  "courseId": "4d74d62b-96b6-45dd-8d33-7e3da76acd42",
+  "title": "Introduction to Machine Learning",
+  "content": "Overview of machine learning concepts and algorithms.",
+  "duration": 70,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca937d"
+  },
+  "lessonId": "debc1fcd-6d11-4f4c-aae5-0ada5b2cb59a",
+  "courseId": "8a5847d4-8b91-40a1-b058-49054b587cd3",
+  "title": "Data Preprocessing",
+  "content": "Techniques for handling missing data and feature engineering.",
+  "duration": 90,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca937e"
+  },
+  "lessonId": "a160b7f8-339a-4831-b36d-8a3f42e0c97f",
+  "courseId": "7b23a1cd-fb73-4905-ad84-a3bf7b320f10",
+  "title": "Cybersecurity Fundamentals",
+  "content": "Understanding cybersecurity principles and best practices.",
+  "duration": 65,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca937f"
+  },
+  "lessonId": "68de86c0-3044-4a69-bc4a-b8d5d19c59c6",
+  "courseId": "c38c280a-72e1-40bf-a4bd-7d11f9416565",
+  "title": "Ethical Hacking Techniques",
+  "content": "Learning penetration testing methodologies.",
+  "duration": 80,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684827be70de6a3fa6ca9380"
+  },
+  "lessonId": "41cffdd5-a64a-4ba8-a4e9-f8592663cdfd",
+  "courseId": "414032a4-fd81-4ee8-a6d9-f9f2e56fbdc4",
+  "title": "Cloud Computing Concepts",
+  "content": "Introduction to cloud computing and deployment strategies.",
+  "duration": 75,
+  "createdAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T13:40:30.153Z"
+  }
+}]

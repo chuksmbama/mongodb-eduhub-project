@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca9396"
+  },
+  "submissionId": "6e9c4423-7902-482f-96b3-64d07d8626d2",
+  "assignmentId": "c7f9f2b0-b169-4c09-a962-22ecd07ceddd",
+  "studentId": "1cbd2cd1-7b2d-42f8-ba0a-d04b36b7f38d",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Solution for Assignment 1",
+  "score": 95,
+  "feedback": "Excellent work!"
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca9397"
+  },
+  "submissionId": "4ded1e3d-8799-4f51-a912-38818edcd65e",
+  "assignmentId": "ef42beb1-7427-47b5-bd41-da81c4051704",
+  "studentId": "56c704c7-b0eb-466c-8b58-661699a19b47",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Report on Database Normalization",
+  "score": 88,
+  "feedback": "Good effort, minor improvements needed."
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca9398"
+  },
+  "submissionId": "013303d2-bcd2-4100-87b5-0588b311b035",
+  "assignmentId": "57aef7ec-6ee8-4a66-aabc-08c7a6e646c7",
+  "studentId": "ec7b0211-0d8e-4bf7-936f-37ec7f04263f",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Algorithm design analysis",
+  "score": 90,
+  "feedback": "Solid explanation of concepts!"
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca9399"
+  },
+  "submissionId": "bdf3bb44-c5e1-47d0-81ad-7f9a66c92373",
+  "assignmentId": "ad78e62f-8c37-498e-844a-69c04adcecd5",
+  "studentId": "26725e04-44b1-4732-bbaa-f963c83391d0",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "AI Fundamentals essay",
+  "score": 92,
+  "feedback": "Very insightful discussion!"
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca939a"
+  },
+  "submissionId": "20184273-028e-44a2-bb91-41189ee44ee5",
+  "assignmentId": "a7313020-f4d7-4d9b-89a5-0a90e227b925",
+  "studentId": "54892a11-9c04-455c-aaef-7f39b9bf711b",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Cybersecurity case study",
+  "score": 85,
+  "feedback": "Well-structured analysis."
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca939b"
+  },
+  "submissionId": "4b8d9b5b-b139-470e-aa38-b5c866717c74",
+  "assignmentId": "483c61dd-1867-4130-a478-91bece6d724f",
+  "studentId": "5fb8b3ab-ca9c-4023-8a47-0e730c1ba647",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Web development tutorial",
+  "score": 98,
+  "feedback": "Very well explained!"
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca939c"
+  },
+  "submissionId": "ab87e9ec-5089-46f9-80fb-4ec4f2425247",
+  "assignmentId": "7021da31-82f4-4e67-aa4a-bca9169060c3",
+  "studentId": "aacec9ac-d845-4f80-9f63-ba0e9b7f0fbb",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Machine learning application report",
+  "score": 90,
+  "feedback": "Demonstrates great understanding!"
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca939d"
+  },
+  "submissionId": "0736277c-4f7c-4367-9383-c1ae05e01067",
+  "assignmentId": "8fb3e5ca-5fd3-4e2a-aa52-829cec749e77",
+  "studentId": "442aa3ec-ec5f-42c9-82c8-85d053e753a3",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Cloud computing overview",
+  "score": 88,
+  "feedback": "Good grasp of core concepts."
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca939e"
+  },
+  "submissionId": "c301ddd0-e0cb-414a-87c1-0189db2bc377",
+  "assignmentId": "4c468604-7b3e-4b86-9e6c-1eaa5a61dee4",
+  "studentId": "39a0114b-0533-45af-8563-d1dda4f7fe0c",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Mobile app design principles",
+  "score": 93,
+  "feedback": "Great design approach!"
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca939f"
+  },
+  "submissionId": "b54a7ad4-3d5e-4848-81bb-acd9d730cdd8",
+  "assignmentId": "3e33c764-9914-42a3-8da7-be29967e33cc",
+  "studentId": "19cb7088-8c9d-4d47-83b9-72d8ed786b5d",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Software engineering case study",
+  "score": 87,
+  "feedback": "Solid case study approach."
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca93a0"
+  },
+  "submissionId": "89b8095b-846c-421d-af2f-1934598cd9bc",
+  "assignmentId": "9ab4ccce-3f4e-4db2-b043-edf7af288f9e",
+  "studentId": "8c0b44dc-a31a-4b8f-a81d-e9263d171fc7",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Network security research",
+  "score": 95,
+  "feedback": "Thorough research and analysis."
+},
+{
+  "_id": {
+    "$oid": "684831c670de6a3fa6ca93a1"
+  },
+  "submissionId": "3b378acc-9498-438a-a62c-9e73e85bf5bb",
+  "assignmentId": "9a64b0f8-a025-40dd-b2ed-b1f342153e66",
+  "studentId": "87d9b3c6-1e95-492d-832a-89dc6b4e24eb",
+  "submittedAt": {
+    "$date": "2025-06-10T14:23:18.901Z"
+  },
+  "content": "Data science final project",
+  "score": 96,
+  "feedback": "Exceptional work!"
+}]
